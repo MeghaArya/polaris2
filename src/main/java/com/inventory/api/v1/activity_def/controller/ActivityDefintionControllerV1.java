@@ -20,6 +20,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import java.time.LocalDateTime;
+
 
 
 import com.inventory.api.v1.activity_def.model.ActivityDefinition;
@@ -77,7 +79,9 @@ public class ActivityDefintionControllerV1 {
 	            ActivityDefinition activityDefinition = activityDefinitionData.get();
 	            activityDefinition.setActivity(activityDefinitionDetails.getActivity());
 	            activityDefinition.setDescription(activityDefinitionDetails.getDescription());
-	            // Set other fields you wish to update
+	            // Set other fields you wish to update, i am going to add in the date and time
+	            activityDefinition.setPostedDateTime(LocalDateTime.now()); // Update the timestamp
+
 
 	            return new ResponseEntity<>(activityDefinitionRepository.save(activityDefinition), HttpStatus.OK);
 	        } else {
@@ -88,6 +92,8 @@ public class ActivityDefintionControllerV1 {
 //	 
 	 @PostMapping("/activity_def")
 	 public ResponseEntity<ActivityDefinition> createActivityDefinition(@RequestBody ActivityDefinition activityDefinition) {
+		 //i am going to have it just automatically set to update posted time
+		    activityDefinition.setPostedDateTime(LocalDateTime.now()); // Set the current date and time
 	     try {
 	         ActivityDefinition _activityDefinition = activityDefinitionRepository.save(activityDefinition);
 	         return new ResponseEntity<>(_activityDefinition, HttpStatus.CREATED);
