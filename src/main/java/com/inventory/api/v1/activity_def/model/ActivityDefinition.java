@@ -80,7 +80,7 @@ public class ActivityDefinition implements Serializable{
 	 * Return description
 	 * @return description
 	 */
-	@Column(name = "acivity_desc")
+	@Column(name = "activity_desc")
 	public String getDescription() {
 		return description;
 	}
