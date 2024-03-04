@@ -83,6 +83,19 @@
 			<version>${version.modelmapper}</version>
 		</dependency>
 		
+		<!-- AWS Dependencies -->
+		<dependency>
+		    <groupId>com.amazonaws</groupId>
+		    <artifactId>aws-lambda-java-core</artifactId>
+		    <version>1.2.1</version>
+		</dependency>
+		<dependency>
+		    <groupId>com.amazonaws.serverless</groupId>
+		    <artifactId>aws-serverless-java-container-springboot3</artifactId>
+		    <version>2.0.0-M2</version>
+		</dependency>
+
+		
 	</dependencies>
 
 	<build>
