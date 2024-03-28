@@ -1,0 +1,201 @@
+sku_id,quantity,department,subdepartment,store_id,sku_name,sku_description,upc_id
+10000000,0,Produce,Fruit,1,Ackee,"The ackee is a tropical fruit native to West Africa, known for its pear-shaped appearance and bright red arils. It is a staple in Caribbean cuisine.",100000000001
+10000001,0,Produce,Fruit,1,Acai berry,"The acai berry is a small, dark purple fruit that grows on the açaí palm tree in the Amazon rainforest. It is renowned for its antioxidant-rich properties.",100000000002
+10000002,0,Produce,Fruit,1,African cucumber,"Also known as horned melon or kiwano, the African cucumber has spiky orange skin and bright green, jelly-like flesh. It has a mildly sweet and tart taste.",100000000003
+10000003,0,Produce,Fruit,1,Ambarella,"The ambarella, also called hog plum, is a tropical fruit with a sweet and tangy flavor. It is often used in chutneys, jams, and beverages.",100000000004
+10000004,0,Produce,Fruit,1,Amazon grape,"Amazon grape, or uvilla, is a small fruit with a grape-like appearance. It grows in South America and has a sweet and slightly tart taste.",100000000005
+10000005,0,Produce,Fruit,1,American elderberry,American elderberry is a dark purple berry with a rich history of medicinal use. It is known for its immune-boosting properties and is used in jams and syrups.,100000000006
+10000006,0,Produce,Fruit,1,Ampalaya,"Ampalaya, or bitter melon, is a green, spiky fruit with a bitter taste. It is commonly used in Asian cuisines and is believed to have various health benefits.",100000000007
+10000007,0,Produce,Fruit,1,Angelica,"Angelica is a herbaceous plant with aromatic roots and stems. While the roots are used in herbal medicine, the plant also produces small, aromatic fruits.",100000000008
+10000008,0,Produce,Fruit,1,Apple,"Apples are one of the most popular fruits globally, known for their crisp texture and sweet or tart flavor. They come in various varieties and are versatile in cooking.",100000000009
+10000009,0,Produce,Fruit,1,Apricot,"The apricot is a small, orange fruit with a velvety skin and a sweet, juicy flesh. It is rich in vitamins and commonly enjoyed fresh or dried.",100000000010
+10000010,0,Produce,Fruit,1,Asian pear,"Asian pear, or Nashi pear, has a crisp and juicy texture, similar to apples. It comes in various varieties and is often eaten fresh or added to salads.",100000000011
+10000011,0,Produce,Fruit,1,Avocado,"Avocado is a creamy, green fruit known for its rich, nutty flavor. It is a versatile ingredient in both savory and sweet dishes.",100000000012
+10000012,0,Produce,Fruit,1,Babaco,"Babaco is a tropical fruit with a yellow, elongated shape and a taste reminiscent of pineapple and papaya. It is native to South America.",100000000013
+10000013,0,Produce,Fruit,1,Banana,Bananas are a popular tropical fruit with a sweet and creamy taste. They come in various varieties and are a good source of potassium.,100000000014
+10000014,0,Produce,Fruit,1,Barbadine,"Barbadine, or giant granadilla, is a large fruit with a tough outer rind and juicy, aromatic seeds. It is native to South America and often eaten fresh.",100000000015
+10000015,0,Produce,Fruit,1,Bearberry,"Bearberry, also known as uva-ursi, is a medicinal plant with small red berries. It is traditionally used for its potential health benefits.",100000000016
+10000016,0,Produce,Fruit,1,Bilberry,"Bilberry is a dark purple berry similar to blueberries. It is known for its potential health benefits, particularly for eye health.",100000000017
+10000017,0,Produce,Fruit,1,Bitter melon,"Bitter melon, also known as bitter gourd, is a green, spiky fruit with a bitter taste. It is commonly used in Asian cuisines for its unique flavor.",100000000018
+10000018,0,Produce,Fruit,1,Black sapote,"Black sapote, or chocolate pudding fruit, has a dark brown, custard-like flesh with a taste reminiscent of chocolate. It is native to Mexico.",100000000019
+10000019,0,Produce,Fruit,1,Blackberry,Blackberries are dark purple-black fruits with a sweet and tart flavor. They are rich in antioxidants and commonly used in desserts and jams.,100000000020
+10000020,0,Produce,Fruit,1,Blood orange,"Blood oranges have a distinctive red pulp and a sweet, citrusy flavor. They are rich in anthocyanins, giving them their unique color.",100000000021
+10000021,0,Produce,Fruit,1,Blueberry,"Blueberries are small, round berries with a sweet and tangy flavor. They are high in antioxidants and commonly used in various culinary applications.",100000000022
+10000022,0,Produce,Fruit,1,Blue raspberry,"Blue raspberry, although not a naturally occurring fruit, is often represented as a vibrant and sweet berry in the culinary world.",100000000023
+10000023,0,Produce,Fruit,1,Boysenberry,"Boysenberry is a hybrid berry with a sweet and tart flavor, resembling a larger, juicier blackberry. It is often used in jams and desserts.",100000000024
+10000024,0,Produce,Fruit,1,Breadfruit,"Breadfruit is a starchy fruit with a potato-like texture when cooked. It is a staple in tropical regions and can be roasted, fried, or boiled.",100000000025
+10000025,0,Produce,Fruit,1,Buddhas hand,Buddhas hand is a unique citrus fruit with finger-like segments. It is highly aromatic and often used as a natural air freshener.,100000000026
+10000026,0,Produce,Fruit,1,Burahem,"Burahem, or Indian fig, is a tropical fruit with a spiky green exterior and sweet, red or pink flesh. It is commonly eaten fresh or used in desserts.",100000000027
+10000027,0,Produce,Fruit,1,Cacao,"Cacao is the primary ingredient in chocolate, derived from the seeds of the cacao tree. The seeds are processed to produce cocoa and chocolate products.",100000000028
+10000028,0,Produce,Fruit,1,Cactus fruit,"Cactus fruit, or prickly pear, has a vibrant pink or yellow skin and a sweet, watery flesh with edible seeds. It is popular in Mexican cuisine.",100000000029
+10000029,0,Produce,Fruit,1,Cactus pear,"Cactus pear, or prickly pear, is a type of cactus fruit with a sweet and refreshing taste. It is commonly eaten fresh or used in beverages.",100000000030
+10000030,0,Produce,Fruit,1,Cantaloupe,Cantaloupe is a sweet and juicy melon with orange flesh and a netted rind. It is commonly eaten fresh or added to fruit salads.,100000000031
+10000031,0,Produce,Fruit,1,Camu camu,"Camu camu is a small, sour fruit native to the Amazon rainforest. It is known for its exceptionally high vitamin C content.",100000000032
+10000032,0,Produce,Fruit,1,Canistel,"Canistel, or eggfruit, has a custard-like texture and a sweet, mellow flavor. It is often eaten fresh or used in smoothies and desserts.",100000000033
+10000033,0,Produce,Fruit,1,Cape gooseberry,"Cape gooseberry, or goldenberry, is a small, orange fruit enclosed in a papery husk. It has a sweet and tart flavor and is often used in jams.",100000000034
+10000034,0,Produce,Fruit,1,Carambola,"Carambola, or star fruit, has a unique star-shaped cross-section. It has a sweet and tangy flavor and is commonly eaten fresh.",100000000035
+10000035,0,Produce,Fruit,1,Cempedak,"Cempedak is a tropical fruit related to jackfruit, with a sweet and fragrant aroma. It is often fried or eaten fresh.",100000000036
+10000036,0,Produce,Fruit,1,Chayote,"Chayote is a green, wrinkled fruit with a mild, crisp texture. It is commonly used in salads, stir-fries, and casseroles.",100000000037
+10000037,0,Produce,Fruit,1,Cherimoya,"Cherimoya is a creamy, green fruit with a sweet and custard-like flavor. It is often called the ice cream fruit for its taste and texture.",100000000038
+10000038,0,Produce,Fruit,1,Cherry,"Cherries are small, round fruits with a sweet or tart flavor. They come in various varieties, including sweet cherries and sour cherries.",100000000039
+10000039,0,Produce,Fruit,1,Clementine,"Clementine is a small, easy-to-peel citrus fruit with a sweet and juicy flavor. It is a type of mandarin orange.",100000000040
+10000040,0,Produce,Fruit,1,Cloudberry,"Cloudberry is a small, orange berry with a tart and sweet flavor. It is native to northern regions and is often used in jams and desserts.",100000000041
+10000041,0,Produce,Fruit,1,Coconut,"Coconut is a tropical fruit known for its hard outer shell and sweet, white flesh. It is used in various forms, including coconut water, milk, and oil.",100000000042
+10000042,0,Produce,Fruit,1,Cocona,"Cocona is a tropical fruit with a bright orange skin and tangy, citrus-like flavor. It is commonly used in South American cuisine.",100000000043
+10000043,0,Produce,Fruit,1,Cotton Candy Grapes,Cotton candy grapes are a unique and delightfully sweet grape variety that has gained popularity for its uncanny resemblance to the nostalgic flavor of cotton candy.,100000000044
+10000044,0,Produce,Fruit,1,Crab apple,"Crab apples are small, tart apples often used in jams, jellies, and baked goods. They come in various colors, including red and yellow.",100000000045
+10000045,0,Produce,Fruit,1,Cranberry,"Cranberries are small, red berries known for their tart flavor. They are often used in sauces, juices, and baked goods.",100000000046
+10000046,0,Produce,Fruit,1,Creamberry ,"Creamberry, a variant of raspberry, delights with a sweet, creamy flavor. Its unique taste adds a luscious twist to traditional raspberry notes.",100000000047
+10000047,0,Produce,Fruit,1,Crenshaw melon,"Crenshaw melon is a large, oval melon with sweet and juicy orange flesh. It is a hybrid between a cantaloupe and a casaba melon.",100000000048
+10000048,0,Produce,Fruit,1,Currant,"Currants are small, dark berries with a sweet and tart flavor. They come in black, red, and white varieties.",100000000049
+10000049,0,Produce,Fruit,1,Custard apple,"Custard apple, or sugar apple, has a creamy, custard-like texture and a sweet flavor. It is often eaten fresh or used in desserts.",100000000050
+10000050,0,Produce,Fruit,1,Damson plum,"Damson plum is a small, dark purple fruit with a tart flavor. It is commonly used in jams, jellies, and desserts.",100000000051
+10000051,0,Produce,Fruit,1,Date,"Dates are sweet, chewy fruits that come from the date palm tree. They are often eaten dried and are used in various Middle Eastern dishes.",100000000052
+10000052,0,Produce,Fruit,1,Deerberry,"Deerberry is a small, dark purple berry with a tart flavor. It is native to North America and is often foraged in the wild.",100000000053
+10000053,0,Produce,Fruit,1,Dewberry,"Dewberry is a type of blackberry with a sweet and tart flavor. It grows on low, trailing plants and is often used in jams and desserts.",100000000054
+10000054,0,Produce,Fruit,1,Dragon fruit,"Dragon fruit, or pitaya, has a vibrant pink or yellow skin with white or red flesh speckled with black seeds. It has a mildly sweet taste.",100000000055
+10000055,0,Produce,Fruit,1,Donut Peach,"Donut peaches, or Saturn peaches, are small, flat, and incredibly sweet. Their unique shape and velvety skin distinguish them, offering a delightful twist on traditional peach varieties.",100000000056
+10000056,0,Produce,Fruit,1,Duku,"Duku is a tropical fruit with a spiky exterior and sweet, translucent flesh. It is native to Southeast Asia.",100000000057
+10000057,0,Produce,Fruit,1,Durian,"Durian is a large, spiky fruit with a strong odor and custard-like flesh. It has a unique taste that people either love or find off-putting.",100000000058
+10000058,0,Produce,Fruit,1,Eastern Prickly Pear,"The Eastern Prickly Pear, scientifically known as Opuntia humifusa, is a cactus species native to the eastern United States.",100000000059
+10000059,0,Produce,Fruit,1,Eggfruit,"Eggfruit, or canistel, has a custard-like texture and a sweet, mellow flavor. It is often eaten fresh or used in smoothies and desserts.",100000000060
+10000060,0,Produce,Fruit,1,Elderberry,Elderberry is a dark purple berry with a rich history of medicinal use. It is known for its immune-boosting properties and is used in jams and syrups.,100000000061
+10000061,0,Produce,Fruit,1,Elephant apple,"Elephant apple is a large, woody fruit with a sour taste. It is commonly used in pickles and traditional medicine.",100000000062
+10000062,0,Produce,Fruit,1,Feijoa,"Feijoa, or pineapple guava, has a fragrant aroma and a sweet, granular flesh. It is often eaten fresh or used in jams and desserts.",100000000063
+10000063,0,Produce,Fruit,1,Finger lime,"Finger lime, or caviar lime, has elongated, bead-like vesicles with a tangy flavor. It is often used as a gourmet garnish.",100000000064
+10000064,0,Produce,Fruit,1,Fig,"Figs are sweet, pear-shaped fruits with a chewy texture and small, edible seeds. They come in various colors, including green, purple, and black.",100000000065
+10000065,0,Produce,Fruit,1,Forest strawberries,"Forest strawberries, also known as wild strawberries, are small berries with a sweet and intense flavor. They are often foraged in the wild.",100000000066
+10000066,0,Produce,Fruit,1,Gabiroba,"Gabiroba is a tropical fruit with a yellowish-green skin and sweet, aromatic flesh. It is native to Brazil.",100000000067
+10000067,0,Produce,Fruit,1,Garcinia indica,"Garcinia indica, or kokum, is a small, purple fruit with a tangy taste. It is often used in culinary preparations and traditional medicine.",100000000068
+10000068,0,Produce,Fruit,1,Genip,"Genip, or Spanish lime, is a small, green fruit with a thin, brittle shell and sweet, jelly-like pulp. It is native to the Caribbean.",100000000069
+10000069,0,Produce,Fruit,1,Goumi,"Goumi is a red berry with a sweet and tart flavor. It is often used in jams, jellies, and wines.",100000000070
+10000070,0,Produce,Fruit,1,Governors plum,"Governors plum, or Jamaica plum, is a tropical fruit with a greenish-yellow skin and sweet, juicy flesh. It is native to the Caribbean.",100000000071
+10000071,0,Produce,Fruit,1,Granny Smith Apple,"Granny Smith apples are crisp, tart, and green-skinned, offering a refreshing burst of flavor with a hint of sweetness.",100000000072
+10000072,0,Produce,Fruit,1,Green Olive,"Green olives are firm, mildly bitter fruits with a tangy flavor. Their vibrant green hue and meaty texture make them a popular addition to salads and Mediterranean dishes.",100000000073
+10000073,0,Produce,Fruit,1,Grumichama,"Grumichama is a small, dark purple fruit with a sweet and tart flavor. It is often eaten fresh or used in jams and desserts.",100000000074
+10000074,0,Produce,Fruit,1,Hala fruit,"Hala fruit, or pandanus fruit, has a unique shape with many segments. It is often used in traditional Polynesian cuisine.",100000000075
+10000075,0,Produce,Fruit,1,Hardy kiwi,"Hardy kiwi, or baby kiwi, is a small, smooth-skinned fruit with a sweet and tangy flavor. It is often eaten whole, including the skin.",100000000076
+10000076,0,Produce,Fruit,1,Honeydew,Honeydew is a sweet and juicy melon with pale green flesh and a smooth rind. It is commonly eaten fresh or added to fruit salads.,100000000077
+10000077,0,Produce,Fruit,1,Huckleberry,"Huckleberry is a small, dark purple berry with a sweet and tart flavor. It is often used in jams, pies, and desserts.",100000000078
+10000078,0,Produce,Fruit,1,Ichocan,"Ichocan, or yellow passion fruit, has a yellow, wrinkled skin and aromatic, jelly-like pulp. It is commonly used in beverages and desserts.",100000000079
+10000079,0,Produce,Fruit,1,Indian fig,"Indian fig, or prickly pear, is a type of cactus fruit with a sweet and mildly tangy flavor. It is often eaten fresh or used in beverages.",100000000080
+10000080,0,Produce,Fruit,1,Jackfruit,"Jackfruit is a large, green fruit with a fibrous texture and a sweet taste. It is often used as a meat substitute in vegetarian dishes.",100000000081
+10000081,0,Produce,Fruit,1,Jabuticaba,Jabuticaba is a dark purple fruit that grows directly on the trunk of the tree. It has a sweet and tart flavor and is often used in jams.,100000000082
+10000082,0,Produce,Fruit,1,Jambolan,"Jambolan, or java plum, is a purple-black fruit with a sweet and slightly astringent taste. It is often used in jams and beverages.",100000000083
+10000083,0,Produce,Fruit,1,Java apple,"Java apple, or rose apple, has a bell-shaped appearance with a crisp, watery flesh and a mildly sweet taste.",100000000084
+10000084,0,Produce,Fruit,1,Jostaberry,Jostaberry is a hybrid berry with a unique flavor combining black currant and gooseberry. It is often used in jams and desserts.,100000000085
+10000085,0,Produce,Fruit,1,Jujube,"Jujube, or red date, is a small, wrinkled fruit with a sweet and chewy texture. It is commonly used in Asian cuisine and traditional medicine.",100000000086
+10000086,0,Produce,Fruit,1,Kakadu plum,"Kakadu plum is a small green fruit native to Australia, known for its extremely high vitamin C content.",100000000087
+10000087,0,Produce,Fruit,1,Kepel fruit,"Kepel fruit is a tropical fruit with a spiky exterior and sweet, aromatic flesh. It is often used in traditional Indonesian cuisine.",100000000088
+10000088,0,Produce,Fruit,1,Kerson fruit,"Kerson fruit, or cherry of the Rio Grande, is a small red fruit with a sweet and tangy flavor. It is often eaten fresh or used in jams.",100000000089
+10000089,0,Produce,Fruit,1,Kiwi,"Kiwi, or kiwifruit, has a brown, fuzzy skin and vibrant green flesh with tiny black seeds. It has a sweet and tart flavor.",100000000090
+10000090,0,Produce,Fruit,1,Kiwano,"Kiwano, or horned melon, has a spiky orange skin and bright green, jelly-like flesh. It has a mildly sweet and tart taste.",100000000091
+10000091,0,Produce,Fruit,1,Kola nut,"Kola nut is the seed of the kola tree, known for its caffeine content. It is often used in traditional medicine and as a flavoring ingredient.",100000000092
+10000092,0,Produce,Fruit,1,Korean melon,"Korean melon is a small, yellow melon with sweet and crisp flesh. It is often eaten fresh or used in salads.",100000000093
+10000093,0,Produce,Fruit,1,Kousa dogwood,"Kousa dogwood fruit is a red, berry-like aggregate fruit with a sweet and tropical flavor. It is often used in jams and desserts.",100000000094
+10000094,0,Produce,Fruit,1,Kumquat,"Kumquat is a small citrus fruit with an edible peel and a sweet, tangy flavor. It is often eaten whole.",100000000095
+10000095,0,Produce,Fruit,1,Kwai muk,"Kwai muk is a small, red fruit with a sweet and tangy flavor. It is native to Southeast Asia and is often eaten fresh.",100000000096
+10000096,0,Produce,Fruit,1,Langsat,"Langsat is a tropical fruit with a thin, yellow or brown skin and sweet, translucent flesh. It is often eaten fresh or used in desserts.",100000000097
+10000097,0,Produce,Fruit,1,Lemon,"Lemons are bright yellow citrus fruits known for their tart flavor. They are used in culinary applications, beverages, and as a flavoring agent.",100000000098
+10000098,0,Produce,Fruit,1,Lemon aspen,"Lemon aspen is a citrus fruit native to Australia, known for its aromatic, lemon-like flavor. It is often used in jams and sauces.",100000000099
+10000099,0,Produce,Fruit,1,Lime,"Limes are small, green citrus fruits with a tart flavor. They are used in culinary applications, beverages, and as a flavoring agent.",100000000100
+10000100,0,Produce,Fruit,1,Longan,"Longan is a small, translucent fruit with a sweet and floral flavor. It is often eaten fresh or used in desserts and beverages.",100000000101
+10000101,0,Produce,Fruit,1,Loquat,"Loquat is a small, orange fruit with a sweet and tangy flavor. It is often eaten fresh or used in jams and desserts.",100000000102
+10000102,0,Produce,Fruit,1,Lychee,"Lychee is a small, red fruit with a rough, bumpy skin and sweet, juicy flesh. It is often eaten fresh or used in desserts and beverages.",100000000103
+10000103,0,Produce,Fruit,1,Macadamia nut,"Macadamia nut is the seed of the macadamia tree, known for its rich and buttery flavor. It is often eaten roasted or used in baking.",100000000104
+10000104,0,Produce,Fruit,1,Mabolo,"Mabolo, or velvet apple, has a hairy brown exterior and sweet, fibrous flesh. It is often eaten fresh or used in jams.",100000000105
+10000105,0,Produce,Fruit,1,Mamey sapote,"Mamey sapote is a large, brown fruit with sweet, orange flesh. It is often eaten fresh or used in smoothies and desserts.",100000000106
+10000106,0,Produce,Fruit,1,Mango,"Mango is a tropical fruit with a sweet and juicy flesh. It comes in various varieties, each with its unique flavor and texture.",100000000107
+10000107,0,Produce,Fruit,1,Mangaba,"Mangaba is a tropical fruit with a greenish-yellow skin and sweet, aromatic flesh. It is often used in traditional Brazilian cuisine.",100000000108
+10000108,0,Produce,Fruit,1,Mangosteen,"Mangosteen is a dark purple fruit with a thick, leathery skin and sweet, segmented flesh. It is often called the queen of fruits.",100000000109
+10000109,0,Produce,Fruit,1,Mandarin,"Mandarin is a citrus fruit with a bright orange, easy-to-peel skin and sweet, juicy segments. It is a type of small orange.",100000000110
+10000110,0,Produce,Fruit,1,Maracuja,"Maracuja, or passion fruit, has a tough outer rind and aromatic, jelly-like pulp with edible seeds. It has a sweet and tangy flavor.",100000000111
+10000111,0,Produce,Fruit,1,Maranja,"Maranja is a tropical fruit with a green or yellowish skin and sweet, aromatic flesh. It is often eaten fresh or used in beverages.",100000000112
+10000112,0,Produce,Fruit,1,Marionberry,"Marionberry is a type of blackberry with a sweet and tart flavor. It is often used in jams, pies, and desserts.",100000000113
+10000113,0,Produce,Fruit,1,Medlar,"Medlar is a small, brown fruit with a rough skin and sweet, creamy flesh. It is often eaten fresh or used in jams and desserts.",100000000114
+10000114,0,Produce,Fruit,1,Melon,"Melons are juicy, sweet fruits with a high water content. Their refreshing taste and various types, like watermelon or cantaloupe, make them a summertime favorite.",100000000115
+10000115,0,Produce,Fruit,1,Miracle fruit,"Miracle fruit is a small, red berry that temporarily alters taste perceptions, making sour foods taste sweet. It is often used in flavor-tripping experiences.",100000000116
+10000116,0,Produce,Fruit,1,Monstera deliciosa,"Monstera deliciosa, or Swiss cheese plant, produces a large, pineapple-like fruit with a sweet and tropical flavor.",100000000117
+10000117,0,Produce,Fruit,1,Morello cherry,"Morello cherry is a dark red or black cherry with a tart flavor. It is often used in jams, jellies, and desserts.",100000000118
+10000118,0,Produce,Fruit,1,Morus nigra,"Morus nigra, or black mulberry, is a dark purple-black fruit with a sweet and juicy flavor. It is often used in jams and desserts.",100000000119
+10000119,0,Produce,Fruit,1,Morus rubra,"Morus rubra, or red mulberry, is a red or purple fruit with a sweet and juicy flavor. It is often used in jams and desserts.",100000000120
+10000120,0,Produce,Fruit,1,Mulberry,"Mulberries are small, sweet berries that come in various colors, including white, red, and black. They are often used in jams and desserts.",100000000121
+10000121,0,Produce,Fruit,1,Muntries,"Muntries are small, red berries native to Australia with a sweet and tangy flavor. They are often used in jams and desserts.",100000000122
+10000122,0,Produce,Fruit,1,Murasaki imo,"Murasaki imo, or Japanese sweet potato, is a starchy root vegetable often used in Japanese cuisine.",100000000123
+10000123,0,Produce,Fruit,1,Nagami Kumquat,"Nagami Kumquat, a petite citrus, boasts sweet edible peel and tangy flesh, offering a delightful burst of flavor in a small, bite-sized package.",100000000124
+10000124,0,Produce,Fruit,1,Nance,"Nance is a small, yellow fruit with a sweet and tart flavor. It is often eaten fresh or used in traditional Latin American beverages.",100000000125
+10000125,0,Produce,Fruit,1,Naranjilla,"Naranjilla is a green, spiky fruit with a tart and citrusy flavor. It is often used in beverages and traditional Latin American dishes.",100000000126
+10000126,0,Produce,Fruit,1,Nashi pear,"Nashi pear, or Asian pear, has a crisp and juicy texture similar to apples. It is often eaten fresh or used in salads.",100000000127
+10000127,0,Produce,Fruit,1,Native cherry,"Native cherry is a small, red or black fruit with a sweet and tart flavor. It is native to Australia and often used in jams.",100000000128
+10000128,0,Produce,Fruit,1,Neem fruit,"Neem fruit is the seed of the neem tree, known for its medicinal properties. It is often used in traditional medicine and skincare.",100000000129
+10000129,0,Produce,Fruit,1,Nectarine,Nectarine is a smooth-skinned variety of peach with sweet and juicy flesh. It is often eaten fresh or used in desserts.,100000000130
+10000130,0,Produce,Fruit,1,Noni,"Noni is a green, bumpy fruit with a strong odor and bitter taste. It is known for its potential health benefits and is used in traditional medicine.",100000000131
+10000131,0,Produce,Fruit,1,Olive,"Olives are small, oval fruits with a briny and salty flavor. They are often cured and used in various Mediterranean dishes.",100000000132
+10000132,0,Produce,Fruit,1,Osage orange,"Osage orange, or hedge apple, is a large, green fruit with a bumpy exterior. It is often used for decorative purposes.",100000000133
+10000133,0,Produce,Fruit,1,Palm fruit,"Palm fruit, or palm berry, comes from various palm trees and is often used to produce palm oil. It has a reddish or orange color.",100000000134
+10000134,0,Produce,Fruit,1,Pandan,Pandan is a fragrant tropical plant often used in cooking. It is also used to flavor various desserts and beverages.,100000000135
+10000135,0,Produce,Fruit,1,Papeda,Papeda is a citrus fruit with a strong aroma and a bitter taste. It is often used in traditional Indonesian cuisine.,100000000136
+10000136,0,Produce,Fruit,1,Papaya,Papaya is a tropical fruit with orange flesh and black seeds. It has a sweet and tropical flavor and is often eaten fresh.,100000000137
+10000137,0,Produce,Fruit,1,Passiflora ligularis,"Passiflora ligularis, or sweet granadilla, has a tough outer rind and sweet, aromatic pulp with edible seeds. It is often used in beverages.",100000000138
+10000138,0,Produce,Fruit,1,Passion fruit,"Passion fruit has a tough outer rind and aromatic, jelly-like pulp with edible seeds. It has a sweet and tangy flavor.",100000000139
+10000139,0,Produce,Fruit,1,Pawpaw,"Pawpaw is a tropical fruit with a greenish-yellow skin and sweet, custard-like flesh. It is often eaten fresh or used in desserts.",100000000140
+10000140,0,Produce,Fruit,1,Peach,"Peach is a stone fruit with a fuzzy skin and sweet, juicy flesh. It is often eaten fresh or used in desserts.",100000000141
+10000141,0,Produce,Fruit,1,Pear,"Pears are sweet and juicy fruits with a smooth skin. They come in various varieties, including Bartlett, Bosc, and Anjou.",100000000142
+10000142,0,Produce,Fruit,1,Persimmon,Persimmon is a orange to reddish-brown fruit with a sweet and honey-like flavor. It is often eaten fresh or dried.,100000000143
+10000143,0,Produce,Fruit,1,Physalis,"Physalis, or ground cherry, has a papery husk and sweet, juicy fruit. It is often used in jams, desserts, and decorative arrangements.",100000000144
+10000144,0,Produce,Fruit,1,Pineapple,"Pineapple is a tropical fruit with a spiky exterior and sweet, juicy flesh. It is often eaten fresh or used in beverages and desserts.",100000000145
+10000145,0,Produce,Fruit,1,Pitanga,"Pitanga, or Surinam cherry, is a small, red fruit with a sweet and tart flavor. It is often eaten fresh or used in jams.",100000000146
+10000146,0,Produce,Fruit,1,Pitaya,"Pitaya, or dragon fruit, has a vibrant pink or yellow skin with white or red flesh speckled with black seeds. It has a mildly sweet taste.",100000000147
+10000147,0,Produce,Fruit,1,Plantain,"Plantains are starchy, cooking bananas often used in savory dishes. They have a green or yellow skin and can be fried, boiled, or baked.",100000000148
+10000148,0,Produce,Fruit,1,Plum,"Plums are stone fruits with a smooth skin and sweet or tart flavor. They come in various varieties, including red, black, and yellow.",100000000149
+10000149,0,Produce,Fruit,1,Pluot,"Pluot is a hybrid fruit combining plum and apricot, with a sweet and juicy flavor. It comes in various varieties.",100000000150
+10000150,0,Produce,Fruit,1,Pulasan,"Pulasan is a tropical fruit related to rambutan, with a spiky exterior and sweet, translucent flesh. It is native to Southeast Asia.",100000000151
+10000151,0,Produce,Fruit,1,Pumpkin,"Pumpkin is a type of winter squash with orange flesh and a mild, sweet flavor. It is often used in soups, pies, and desserts.",100000000152
+10000152,0,Produce,Fruit,1,Quince,"Quince is a yellow, pear-shaped fruit with a tart flavor. It is often used in jams, jellies, and desserts.",100000000153
+10000153,0,Produce,Fruit,1,Rambutan,"Rambutan is a tropical fruit with a spiky exterior and sweet, translucent flesh. It is often eaten fresh or used in desserts.",100000000154
+10000154,0,Produce,Fruit,1,Raspberry,"Raspberries are small, red berries with a sweet and tart flavor. They are often used in jams, desserts, and baked goods.",100000000155
+10000155,0,Produce,Fruit,1,Red currant,"Red currants are small, red berries with a sweet and tart flavor. They are often used in jams, desserts, and beverages.",100000000156
+10000156,0,Produce,Fruit,1,Red huckleberry,"Red huckleberry is a small, red berry with a sweet and tart flavor. It is often used in jams, pies, and desserts.",100000000157
+10000157,0,Produce,Fruit,1,Red kiwi,Red kiwi is a variety of kiwi with a vibrant red or maroon flesh. It has a sweet and tangy flavor.,100000000158
+10000158,0,Produce,Fruit,1,Rose apple,"Rose apple, or java apple, has a bell-shaped appearance with a crisp, watery flesh and a mildly sweet taste.",100000000159
+10000159,0,Produce,Fruit,1,Rowanberry,"Rowanberry, or mountain ash berry, is a small, red fruit with a tart flavor. It is often used in jams and traditional beverages.",100000000160
+10000160,0,Produce,Fruit,1,Salak,"Salak, or snake fruit, has reddish-brown scaly skin and sweet, crunchy flesh. It is native to Southeast Asia.",100000000161
+10000161,0,Produce,Fruit,1,Salal berry,Salal berry is a dark purple fruit with a sweet and tart flavor. It is native to North America and often used in jams and desserts.,100000000162
+10000162,0,Produce,Fruit,1,Sallac,"Sallac, or salak, has reddish-brown scaly skin and sweet, crunchy flesh. It is native to Southeast Asia.",100000000163
+10000163,0,Produce,Fruit,1,Salmonberry,"Salmonberry is a type of raspberry with a sweet and tart flavor. It comes in various colors, including red, orange, and yellow.",100000000164
+10000164,0,Produce,Fruit,1,Santol,"Santol is a tropical fruit with a thick, orange skin and sweet, tangy flesh. It is often eaten fresh or used in jams and desserts.",100000000165
+10000165,0,Produce,Fruit,1,Sapodilla,"Sapodilla is a tropical fruit with a rough brown exterior and sweet, grainy flesh. It is often eaten fresh or used in smoothies.",100000000166
+10000166,0,Produce,Fruit,1,Sapote,"Sapote is a term that encompasses various fruits with creamy, sweet flesh. Varieties include black sapote, mamey sapote, and white sapote.",100000000167
+10000167,0,Produce,Fruit,1,Satsuma,"Satsuma is a sweet, seedless, and easy to peel mandarin orange celebrated for its refreshing flavor and convenient snacking.",100000000168
+10000168,0,Produce,Fruit,1,Sorb apple,"Sorb apple: Tart and versatile, the Sorb apple is favored for jams and jellies, adding a distinctive tang to culinary creations.",100000000169
+10000169,0,Produce,Fruit,1,Soursop,"Soursop is a green, spiky fruit with soft, white flesh and a sweet and tangy flavor. It is often used in beverages and desserts.",100000000170
+10000170,0,Produce,Fruit,1,Spanish lime,"Spanish lime, or genip, is a small, green fruit with a thin, brittle shell and sweet, jelly-like pulp. It is native to the Caribbean.",100000000171
+10000171,0,Produce,Fruit,1,Star apple,"Star apple is a tropical fruit with a smooth, green or purple skin and sweet, milky flesh. It is often eaten fresh.",100000000172
+10000172,0,Produce,Fruit,1,Star fruit,"Star fruit, or carambola, has a unique star-shaped cross-section. It has a sweet and tangy flavor and is commonly eaten fresh.",100000000173
+10000173,0,Produce,Fruit,1,Strawberry,"Strawberries are small, red berries with a sweet and juicy flavor. They are often eaten fresh or used in jams and desserts.",100000000174
+10000174,0,Produce,Fruit,1,Sugar apple,"Sugar apple, or custard apple, has a creamy, custard-like texture and a sweet flavor. It is often eaten fresh or used in desserts.",100000000175
+10000175,0,Produce,Fruit,1,Surinam cherry,"Surinam cherry, or pitanga, is a small, red fruit with a sweet and tart flavor. It is often eaten fresh or used in jams.",100000000176
+10000176,0,Produce,Fruit,1,Sweet granadilla,"Sweet granadilla, or Passiflora ligularis, has a tough outer rind and sweet, aromatic pulp with edible seeds. It is often used in beverages.",100000000177
+10000177,0,Produce,Fruit,1,Sweet lime,Sweet lime is a citrus fruit with a sweet and mild flavor. It is often used in beverages and culinary applications.,100000000178
+10000178,0,Produce,Fruit,1,Sweetie,"Sweetie, or oro blanco, is a hybrid citrus fruit with a sweet and juicy flavor. It is a cross between grapefruit and pomelo.",100000000179
+10000179,0,Produce,Fruit,1,Tamarillo,"Tamarillo, or tree tomato, has a smooth, egg-shaped exterior and sweet, tangy flesh. It comes in various colors, including red and yellow.",100000000180
+10000180,0,Produce,Fruit,1,Tamarind,"Tamarind is a pod-like fruit with a sweet and tangy flavor. It is often used in culinary applications, beverages, and traditional medicine.",100000000181
+10000181,0,Produce,Fruit,1,Tayberry,"Tayberry is a hybrid berry with a sweet and tart flavor, resembling a larger, juicier blackberry. It is often used in jams and desserts.",100000000182
+10000182,0,Produce,Fruit,1,Thimbleberry,"Thimbleberry is a type of raspberry with a sweet and tart flavor. It is often used in jams, pies, and desserts.",100000000183
+10000183,0,Produce,Fruit,1,Tomatillo,"Tomatillo is a small, green fruit with a papery husk and a tart flavor. It is commonly used in Mexican cuisine, particularly in salsas.",100000000184
+10000184,0,Produce,Fruit,1,Tomato,Tomato is a red or yellow fruit with a juicy texture and a sweet or tart flavor. It is commonly used in savory dishes and salads.,100000000185
+10000185,0,Produce,Fruit,1,Tonka bean,"Tonka bean is the seed of the tonka tree, known for its vanilla-like flavor. It is often used as a flavoring agent in desserts and beverages.",100000000186
+10000186,0,Produce,Fruit,1,Ugni,"Ugni, or Chilean guava, is a small, red or purple fruit with a sweet and tart flavor. It is native to South America.",100000000187
+10000187,0,Produce,Fruit,1,Uvaia,"Uvaia is a tropical fruit with a yellow or orange skin and sweet, aromatic flesh. It is native to South America.",100000000188
+10000188,0,Produce,Fruit,1,Velvet tamarind,"Velvet tamarind, or dialium, has a brown, velvety exterior and sweet, tangy flesh. It is often eaten fresh or used in beverages.",100000000189
+10000189,0,Produce,Fruit,1,Wampee,"Wampee is a tropical fruit with a thin, yellow skin and sweet, aromatic flesh. It is native to Southeast Asia.",100000000190
+10000190,0,Produce,Fruit,1,Watermelon,"Watermelon is a large, juicy fruit with red or pink flesh and black seeds. It is often eaten fresh and is popular in the summer.",100000000191
+10000191,0,Produce,Fruit,1,White currant,"White currants are small, translucent berries with a sweet and tart flavor. They are often used in jams, desserts, and beverages.",100000000192
+10000192,0,Produce,Fruit,1,White sapote,"White sapote is a tropical fruit with a green or yellowish skin and sweet, creamy flesh. It is often eaten fresh or used in desserts.",100000000193
+10000193,0,Produce,Fruit,1,Yantok,"Yantok, or rattan fruit, has a spiky exterior and sweet, aromatic flesh. It is often eaten fresh or used in traditional Southeast Asian cuisine.",100000000194
+10000194,0,Produce,Fruit,1,Yellow passion fruit,"Yellow passion fruit, or ichocan, has a yellow, wrinkled skin and aromatic, jelly-like pulp. It is commonly used in beverages and desserts.",100000000195
+10000195,0,Produce,Fruit,1,Yellow sapote,"Yellow sapote is a tropical fruit with a thin, yellow skin and sweet, creamy flesh. It is often eaten fresh or used in desserts.",100000000196
+10000196,0,Produce,Fruit,1,Yew berry,"Yew berry is the fruit of the yew tree, with a bright red, fleshy exterior and a toxic seed in the center. It is not edible.",100000000197
+10000197,0,Produce,Fruit,1,Yunnan hackberry,"Yunnan hackberry is a small, red fruit with a sweet and tart flavor. It is native to Southeast Asia and often used in jams and desserts.",100000000198
+10000198,0,Produce,Fruit,1,Zapote,"Zapote is a tropical fruit with sweet, aromatic flesh. Varieties like Mamey Zapote or White Sapote offer unique flavors, ranging from custard-like to creamy and rich.",100000000199
+10000199,0,Produce,Fruit,1,Ziziphus mauritiana,"Ziziphus mauritiana, or Indian jujube, is a small, round fruit with a sweet and tangy flavor. It is commonly eaten fresh or dried.",100000000200

@@ -8,4 +8,4 @@ INSERT INTO activity_def (activity, activity_desc, ware, floor, returned, damage
 
 INSERT INTO activity_def (activity, activity_desc, ware, floor, returned, damage, time) VALUES ('Damaged', 'Item(s) was marked as damaged', 'n/a', 'n/a', 'n/a', 'positive', CURRENT_TIMESTAMP);
 
-INSERT INTO activity_def (activity, activity_desc, ware, floor, returned, damage, time) VALUES ('Returned', 'Item was returned', 'n/a', 'n/a', 'n/a', 'positive', CURRENT_TIMESTAMP);
+INSERT INTO activity_def (activity, activity_desc, ware, floor, returned, damage, time) VALUES ('Returned', 'Item was returned', 'n/a', 'n/a', 'positive', 'n/a', CURRENT_TIMESTAMP);

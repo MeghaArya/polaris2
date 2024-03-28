@@ -1,6 +1,6 @@
 USE inventory_db_dev_1;
 
-
+drop Table if exists trigger_log;
 drop Table if exists activity;
 drop Table if exists activity_def;
 drop Table if exists capacity;

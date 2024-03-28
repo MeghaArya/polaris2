@@ -1,11 +1,16 @@
 USE inventory_db_dev_1;
 
+CREATE TABLE `trigger_log`(
+    `time` TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    `log` varchar(200)
+);
+
 CREATE TABLE `activity` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
   `item_id` INT UNSIGNED,
   `activity_id` INT UNSIGNED,
   `quantity` INT UNSIGNED,
-  `time` timestamp
+  `time` TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 
@@ -17,7 +22,7 @@ CREATE TABLE `activity_def` (
   `floor` varchar(80),
   `returned` varchar(80),
   `damage` varchar(80),
-  `time` timestamp
+  `time` TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 
@@ -31,7 +36,7 @@ CREATE TABLE `item` (
   `sku_name` varchar(80),
   `sku_desc` varchar(200),
   `upc_id` varchar(20),
-  `time` timestamp
+  `time` TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 
@@ -42,7 +47,7 @@ CREATE TABLE `inventory_counts` (
   `floor` INT UNSIGNED,
   `returned` INT UNSIGNED,
   `damage` INT UNSIGNED,
-  `time` timestamp
+  `time` TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 
@@ -54,7 +59,7 @@ CREATE TABLE `capacity` (
   `warehouse_max` INT UNSIGNED,
   `floor_min` INT UNSIGNED,
   `floor_max` INT UNSIGNED,
-  `time` timestamp
+  `time` TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 ALTER TABLE `activity` ADD FOREIGN KEY (`item_id`) REFERENCES `item` (`id`);

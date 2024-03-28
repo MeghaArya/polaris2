@@ -1,0 +1,201 @@
+sku_id,quantity,department,subdepartment,store_id,sku_name,sku_description,upc_id
+10000200,0,Produce,Vegetables ,1,Alfalfa Sprouts,"Young alfalfa plants, harvested just as they begin to develop leaves.",100000000201
+10000201,0,Produce,Vegetables ,1,Artichoke,"Large, thistle-like vegetable with edible flower buds and a tender heart.",100000000202
+10000202,0,Produce,Vegetables ,1,Artichoke Heart,"The tender, innermost part of the artichoke, prized for its mild flavor.",100000000203
+10000203,0,Produce,Vegetables ,1,Arugula,"Peppery-flavored leafy green, commonly used in salads and sandwiches.",100000000204
+10000204,0,Produce,Vegetables ,1,Asparagus,"Nutrient-rich, spring vegetable with tender spears and a mild, earthy flavor.",100000000205
+10000205,0,Produce,Vegetables ,1,Asparagus Pea,"Small, pea-sized pods with a taste reminiscent of asparagus, often used in salads.",100000000206
+10000206,0,Produce,Vegetables ,1,Aubergine,"Eggplant, a versatile vegetable with a glossy, purple skin and spongy texture.",100000000207
+10000207,0,Produce,Vegetables ,1,Avocado,"Creamy-textured fruit with a buttery taste, commonly used in salads and dips.",100000000208
+10000208,0,Produce,Vegetables ,1,Bamboo Shoots,"Edible shoots of bamboo plants, often used in Asian cuisine.",100000000209
+10000209,0,Produce,Vegetables ,1,Bean Sprouts,"Germinated beans, typically mung beans or soybeans, used in salads and stir-fries.",100000000210
+10000210,0,Produce,Vegetables ,1,Beet Greens,"Leafy green tops of beets, rich in nutrients and often cooked or used in salads.",100000000211
+10000211,0,Produce,Vegetables ,1,Beets,"Root vegetable with a sweet and earthy flavor, available in various colors.",100000000212
+10000212,0,Produce,Vegetables ,1,Bell Pepper,"Sweet, colorful peppers with a mild flavor, used in a variety of dishes.",100000000213
+10000213,0,Produce,Vegetables ,1,Bitter Gourd,"Bitter and textured vegetable, popular in some Asian cuisines for its health benefits.",100000000214
+10000214,0,Produce,Vegetables ,1,Black Radish,"Variety of radish with a dark skin and pungent flavor, often eaten raw or cooked.",100000000215
+10000215,0,Produce,Vegetables ,1,Bok Choy,"Type of Chinese cabbage with white stems and dark green leaves, used in stir-fries.",100000000216
+10000216,0,Produce,Vegetables ,1,Borage,"Edible herb with bright blue flowers, leaves used in salads for a mild cucumber flavor.",100000000217
+10000217,0,Produce,Vegetables ,1,Broccoli,"Nutrient-rich vegetable with florets and stalks, often steamed or stir-fried.",100000000218
+10000218,0,Produce,Vegetables ,1,Brussels Sprouts,"Small, cabbage-like vegetables that grow on stalks, popular in savory dishes.",100000000219
+10000219,0,Produce,Vegetables ,1,Burdock,"Root vegetable with a mild, earthy flavor, often used in Asian cuisine.",100000000220
+10000220,0,Produce,Vegetables ,1,Butterhead Lettuce,"Variety of lettuce with soft leaves, forming a loose head.",100000000221
+10000221,0,Produce,Vegetables ,1,Butternut Squash,"Sweet and nutty-flavored winter squash with a smooth, beige skin.",100000000222
+10000222,0,Produce,Vegetables ,1,Cabbage,"Leafy green or purple vegetable with tightly packed leaves, used in various dishes.",100000000223
+10000223,0,Produce,Vegetables ,1,Cabbage Palm,"Edible inner core of certain palm trees, commonly used in salads.",100000000224
+10000224,0,Produce,Vegetables ,1,Cactus,"Edible parts of certain cactus plants, used in salads, stews, or as a vegetable side.",100000000225
+10000225,0,Produce,Vegetables ,1,Cardoon,"Closely related to artichoke, cardoon is a thistle-like plant with edible stalks.",100000000226
+10000226,0,Produce,Vegetables ,1,Carob,"Pods from the carob tree, used as a cocoa substitute in some cuisines.",100000000227
+10000227,0,Produce,Vegetables ,1,Carrot,"Root vegetable with a sweet and crunchy taste, available in various colors.",100000000228
+10000228,0,Produce,Vegetables ,1,Carrot Tops,"Leafy green tops of carrots, sometimes used in salads or as a garnish.",100000000229
+10000229,0,Produce,Vegetables ,1,Cassava,"Starchy root vegetable, a dietary staple in many tropical countries.",100000000230
+10000230,0,Produce,Vegetables ,1,Cauliflower,"Versatile cruciferous vegetable with a mild flavor, used in various dishes.",100000000231
+10000231,0,Produce,Vegetables ,1,Celery,"Crunchy, green vegetable with long stalks and a mild, savory flavor.",100000000232
+10000232,0,Produce,Vegetables ,1,Celtuce,"Type of lettuce grown for its thick stems, which are often peeled and eaten raw or cooked.",100000000233
+10000233,0,Produce,Vegetables ,1,Chard,"Leafy green vegetable with colorful stems, often used in salads or sautéed.",100000000234
+10000234,0,Produce,Vegetables ,1,Chayote,"Pear-shaped vegetable with a mild flavor, often cooked or used in salads.",100000000235
+10000235,0,Produce,Vegetables ,1,Cherry Tomato,"Small, sweet tomatoes typically eaten raw in salads or as snacks.",100000000236
+10000236,0,Produce,Vegetables ,1,Chervil,"Herb with delicate leaves, often used to add a subtle anise-like flavor to dishes.",100000000237
+10000237,0,Produce,Vegetables ,1,Chickpea,"Nutty-flavored legume, commonly used in various dishes, including hummus.",100000000238
+10000238,0,Produce,Vegetables ,1,Chicory,"Leafy green with a slightly bitter taste, often used in salads and cooked dishes.",100000000239
+10000239,0,Produce,Vegetables ,1,Chili Pepper,Spicy pepper used to add heat and flavor to a wide range of dishes.,100000000240
+10000240,0,Produce,Vegetables ,1,Chinese Broccoli,"Leafy green vegetable with thick stems, commonly used in Asian cuisine.",100000000241
+10000241,0,Produce,Vegetables ,1,Chinese Cabbage,"Various leafy vegetables used in Chinese cuisine, including Napa cabbage.",100000000242
+10000242,0,Produce,Vegetables ,1,Chinese Leek,"Leek variety with flat, broad leaves, often used in Asian cooking.",100000000243
+10000243,0,Produce,Vegetables ,1,Chinese Spinach,Leafy green vegetable commonly used in Chinese cuisine.,100000000244
+10000244,0,Produce,Vegetables ,1,Chives,"Herb with long, thin leaves and a mild onion flavor, often used as a garnish.",100000000245
+10000245,0,Produce,Vegetables ,1,Chrysanthemum Greens,"Edible leaves of certain chrysanthemum varieties, used in salads and hot pots.",100000000246
+10000246,0,Produce,Vegetables ,1,Collard Greens,"Loose-leafed cabbage variety, often cooked and enjoyed in Southern cuisine.",100000000247
+10000247,0,Produce,Vegetables ,1,Corn,"Sweet and starchy cereal grain, commonly eaten as a vegetable.",100000000248
+10000248,0,Produce,Vegetables ,1,Cremini Mushroom,"Younger than portobellos, creminis have a mild, earthy flavor and a firmer texture, perfect for various culinary applications.",100000000249
+10000249,0,Produce,Vegetables ,1,Cress,"Leafy green with a peppery flavor, often used in salads and as a garnish.",100000000250
+10000250,0,Produce,Vegetables ,1,Crosne,"Small, tuberous vegetable with a nutty flavor, often used in French cuisine.",100000000251
+10000251,0,Produce,Vegetables ,1,Cucamelon,"Tiny melon-shaped fruit with a cucumber flavor, often used in salads.",100000000252
+10000252,0,Produce,Vegetables ,1,Cucumber,Cool and refreshing vegetable commonly used in salads and as a snack.,100000000253
+10000253,0,Produce,Vegetables ,1,Cushaw Squash,"Winter squash with a bulbous end and a mild, sweet flavor.",100000000254
+10000254,0,Produce,Vegetables ,1,Daikon,"Large, mild-flavored radish commonly used in Asian cuisine.",100000000255
+10000255,0,Produce,Vegetables ,1,Dulse,"Edible red seaweed with a chewy texture, often used in salads and soups.",100000000256
+10000256,0,Produce,Vegetables ,1,Edamame,"Young soybeans, often boiled or steamed and enjoyed as a snack or appetizer.",100000000257
+10000257,0,Produce,Vegetables ,1,Eggplant,Versatile vegetable with a glossy purple skin and a spongy texture when cooked.,100000000258
+10000258,0,Produce,Vegetables ,1,Elephant Garlic,"Large bulb of garlic with mild flavor, often used in culinary applications.",100000000259
+10000259,0,Produce,Vegetables ,1,Endive,"Leafy green with a slightly bitter taste, often used in salads.",100000000260
+10000260,0,Produce,Vegetables ,1,Ensete,"Edible plant related to the banana, used in certain Ethiopian dishes.",100000000261
+10000261,0,Produce,Vegetables ,1,Fat Hen,"Leafy green vegetable with a mild flavor, often used in salads.",100000000262
+10000262,0,Produce,Vegetables ,1,Fennel,"Crisp and aromatic vegetable with a licorice-like flavor, used in various dishes.",100000000263
+10000263,0,Produce,Vegetables ,1,Fiddlehead Ferns,"Curled, young fern fronds with a distinct flavor, often used in salads or as a side dish.",100000000264
+10000264,0,Produce,Vegetables ,1,Finger Lime,"Caviar-shaped citrus pearls with a burst of tangy flavor, used as a garnish.",100000000265
+10000265,0,Produce,Vegetables ,1,Fonio,"Ancient grain with a nutty flavor, often used in African and Asian cuisines.",100000000266
+10000266,0,Produce,Vegetables ,1,Frisee,"Leafy green with fringed leaves, often used in salads for its slightly bitter taste.",100000000267
+10000267,0,Produce,Vegetables ,1,Garbanzo Beans,"Nutty-flavored legumes, also known as chickpeas, used in a variety of dishes.",100000000268
+10000268,0,Produce,Vegetables ,1,Garlic,"Aromatic bulb with a pungent flavor, used in countless savory dishes.",100000000269
+10000269,0,Produce,Vegetables ,1,Gem Squash,"Small, round winter squash with a sweet flavor, commonly baked or steamed.",100000000270
+10000270,0,Produce,Vegetables ,1,Gherkin,"Small, crisp cucumber often pickled and used as a condiment or snack.",100000000271
+10000271,0,Produce,Vegetables ,1,Ginger,"Spicy and aromatic rhizome, used in both sweet and savory dishes.",100000000272
+10000272,0,Produce,Vegetables ,1,Gobo,"Japanese term for burdock root, commonly used in Japanese cuisine.",100000000273
+10000273,0,Produce,Vegetables ,1,Golden Samphire,Edible coastal plant with a crisp texture and a salty flavor.,100000000274
+10000274,0,Produce,Vegetables ,1,Goosefoot,"Edible green leafy vegetable with a mild taste, often used in salads.",100000000275
+10000275,0,Produce,Vegetables ,1,Gourd,"Various types of fleshy fruit with hard rinds, often used in decorative crafts.",100000000276
+10000276,0,Produce,Vegetables ,1,Green Bean,"Podded vegetable with immature seeds, commonly used in salads and stir-fries.",100000000277
+10000277,0,Produce,Vegetables ,1,Green Cabbage,"Leafy green or purple vegetable with tightly packed leaves, used in various dishes.",100000000278
+10000278,0,Produce,Vegetables ,1,Green Chile Pepper,Spicy pepper used to add heat and flavor to a wide range of dishes.,100000000279
+10000279,0,Produce,Vegetables ,1,Green Onion,"Young onion with a mild flavor, commonly used as a garnish.",100000000280
+10000280,0,Produce,Vegetables ,1,Green Peas,"Small, round, green seeds harvested from pea pods, often used in various dishes.",100000000281
+10000281,0,Produce,Vegetables ,1,Ice Plant,"Succulent plant with a crisp texture, often used in salads for its unique flavor.",100000000282
+10000282,0,Produce,Vegetables ,1,Jerusalem Artichoke,"Tuber with a nutty flavor, often used in salads or as a potato substitute.",100000000283
+10000283,0,Produce,Vegetables ,1,Jicama,"Root vegetable with a crisp texture and a slightly sweet flavor, often used in salads.",100000000284
+10000284,0,Produce,Vegetables ,1,Jute Leaf,"Leafy green vegetable with a mild taste, often used in soups and stews.",100000000285
+10000285,0,Produce,Vegetables ,1,Kai-lan,"Chinese broccoli with tender stems and dark green leaves, commonly used in stir-fries.",100000000286
+10000286,0,Produce,Vegetables ,1,Kale,"Nutrient-dense leafy green vegetable with a slightly bitter taste, often used in salads.",100000000287
+10000287,0,Produce,Vegetables ,1,Kohlrabi,"Edible bulbous stem vegetable with a mild, sweet taste, often eaten raw or cooked.",100000000288
+10000288,0,Produce,Vegetables ,1,Lagos Bologi,"Leafy green vegetable with a mild flavor, commonly used in Nigerian cuisine.",100000000289
+10000289,0,Produce,Vegetables ,1,Lambsquarters,"Wild edible green with a mild flavor, often used in salads or cooked dishes.",100000000290
+10000290,0,Produce,Vegetables ,1,Leek,"Mild-flavored vegetable with long, slender stalks, often used in soups and stews.",100000000291
+10000291,0,Produce,Vegetables ,1,Lemon Grass,"Aromatic herb with a citrus flavor, commonly used in Asian cuisine.",100000000292
+10000292,0,Produce,Vegetables ,1,Lentil,"Small, lens-shaped legume with a nutty flavor, commonly used in soups and stews.",100000000293
+10000293,0,Produce,Vegetables ,1,Lettuce,"Leafy green vegetable with various varieties, commonly used in salads.",100000000294
+10000294,0,Produce,Vegetables ,1,Lima Beans,"Butter beans with a creamy texture, often used in soups, stews, and salads.",100000000295
+10000295,0,Produce,Vegetables ,1,Litchi Tomato,"Small, red fruit with a sweet and tangy flavor, often used in salads.",100000000296
+10000296,0,Produce,Vegetables ,1,Loofah,"Edible gourd with a sponge-like interior, often used in Asian cuisine.",100000000297
+10000297,0,Produce,Vegetables ,1,Lupini Beans,"Edible legumes with a bitter taste, often eaten after soaking and boiling.",100000000298
+10000298,0,Produce,Vegetables ,1,Malabar Spinach,"Leafy green vegetable with a mild flavor, often used in salads or cooked dishes.",100000000299
+10000299,0,Produce,Vegetables ,1,Manioc,"Tuberous root vegetable, also known as cassava, often used in various dishes.",100000000300
+10000300,0,Produce,Vegetables ,1,Marrow,"Large, summer squash with a mild flavor, commonly used in cooking and baking.",100000000301
+10000301,0,Produce,Vegetables ,1,Mashua,"Edible tuber with a slightly spicy flavor, often used in Andean cuisine.",100000000302
+10000302,0,Produce,Vegetables ,1,Matooke,"Starchy banana variety, often used in cooking in East Africa.",100000000303
+10000303,0,Produce,Vegetables ,1,Mizuna,"Japanese mustard greens with a mild, peppery flavor, often used in salads.",100000000304
+10000304,0,Produce,Vegetables ,1,Monks Beard,"Edible green with a delicate flavor, often used in Italian cuisine.",100000000305
+10000305,0,Produce,Vegetables ,1,Mooli,"Long, white radish with a mild flavor, commonly used in Asian cuisine.",100000000306
+10000306,0,Produce,Vegetables ,1,Morel Mushroom,"Wild mushroom with a distinctive honeycomb appearance, prized in culinary dishes.",100000000307
+10000307,0,Produce,Vegetables ,1,Mountain Yam,"Edible tuber with a starchy texture, often used in Asian cuisine.",100000000308
+10000308,0,Produce,Vegetables ,1,Mushroom,"Fleshy fungi with various shapes and flavors, commonly used in cooking.",100000000309
+10000309,0,Produce,Vegetables ,1,Napa Cabbage,"Chinese cabbage with crisp, pale green leaves, commonly used in stir-fries.",100000000310
+10000310,0,Produce,Vegetables ,1,Nasturtium,"Edible flowers and leaves with a peppery flavor, often used in salads.",100000000311
+10000311,0,Produce,Vegetables ,1,New Zealand Spinach,"Leafy green with a mild flavor, often used as a spinach substitute in hot dishes.",100000000312
+10000312,0,Produce,Vegetables ,1,Nopal,"Edible pads of certain cactus plants, commonly used in Mexican cuisine.",100000000313
+10000313,0,Produce,Vegetables ,1,Nori,"Edible seaweed sheets, often used in Japanese cuisine, especially for sushi.",100000000314
+10000314,0,Produce,Vegetables ,1,Okra,"Green, podded vegetable with a mucilaginous texture, often used in soups and stews.",100000000315
+10000315,0,Produce,Vegetables ,1,Olive Organic,"Brined or cured fruits of the olive tree, often used in salads, dishes, or for oil production.",100000000316
+10000316,0,Produce,Vegetables ,1,Onion,"Pungent bulb vegetable with layers, used in various culinary applications.",100000000317
+10000317,0,Produce,Vegetables ,1,Oyster Mushroom,"Edible mushroom with a delicate flavor, often used in stir-fries and soups.",100000000318
+10000318,0,Produce,Vegetables ,1,Pak Choy,"Chinese cabbage with dark green leaves and crisp white stems, commonly used in stir-fries.",100000000319
+10000319,0,Produce,Vegetables ,1,Palm Heart,"Edible inner core of certain palm trees, commonly used in salads and dishes.",100000000320
+10000320,0,Produce,Vegetables ,1,Parsley Root,"Root vegetable with a parsley flavor, often used in soups and stews.",100000000321
+10000321,0,Produce,Vegetables ,1,Parsnip,"Sweet and nutty-flavored root vegetable, often used in soups and stews.",100000000322
+10000322,0,Produce,Vegetables ,1,Pea,"Small, round, green seeds harvested from pea pods, often used in various dishes.",100000000323
+10000323,0,Produce,Vegetables ,1,Pearl Onion,"Small, round onion with a mild flavor, often used in cooking and pickling.",100000000324
+10000324,0,Produce,Vegetables ,1,Pennywort,"Edible plant with round leaves, often used in salads and Asian cuisine.",100000000325
+10000325,0,Produce,Vegetables ,1,Pigeon Pea,"Small, round legume with a nutty flavor, often used in soups and stews.",100000000326
+10000326,0,Produce,Vegetables ,1,Pinto Bean,"Speckled legume with a creamy texture, commonly used in various dishes.",100000000327
+10000327,0,Produce,Vegetables ,1,Poblano,"Mild chili pepper with a dark green color, often used in Mexican cuisine.",100000000328
+10000328,0,Produce,Vegetables ,1,Poke Salad Greens,"Edible greens from the pokeberry plant, often used in salads.",100000000329
+10000329,0,Produce,Vegetables ,1,Pokeweed,"Edible young shoots of the pokeweed plant, often used in Southern cuisine.",100000000330
+10000330,0,Produce,Vegetables ,1,Porcini Mushroom,"Wild, robust-flavored fungus with a distinctive nutty aroma; prized in culinary applications for its rich taste and meaty texture.",100000000331
+10000331,0,Produce,Vegetables ,1,Portobello Mushroom,"Large, mature cremini mushroom with a meaty texture and robust, earthy flavor, often used as a savory ingredient in various dishes.",100000000332
+10000332,0,Produce,Vegetables ,1,Potato,"Starchy tuber with various varieties, commonly used in cooking and baking.",100000000333
+10000333,0,Produce,Vegetables ,1,Purslane,"Edible succulent with a lemony flavor, often used in salads or cooked dishes.",100000000334
+10000334,0,Produce,Vegetables ,1,Quinoa,"Nutrient-rich grain with a mild, nutty flavor, often used in salads and as a side dish.",100000000335
+10000335,0,Produce,Vegetables ,1,Radicchio,"Bitter leafy vegetable with red or purple leaves, commonly used in salads.",100000000336
+10000336,0,Produce,Vegetables ,1,Radish,"Crisp and peppery root vegetable, often used in salads and as a garnish.",100000000337
+10000337,0,Produce,Vegetables ,1,Radish Sprout,"Young sprouts from radish seeds, often used in salads and sandwiches.",100000000338
+10000338,0,Produce,Vegetables ,1,Ramp,"Wild leek with a pungent flavor, often used in culinary dishes.",100000000339
+10000339,0,Produce,Vegetables ,1,Rapini,"Leafy green vegetable with a slightly bitter taste, often used in Italian cuisine.",100000000340
+10000340,0,Produce,Vegetables ,1,Red Cabbage,"Leafy vegetable with vibrant purple or red leaves, often used in salads and coleslaw.",100000000341
+10000341,0,Produce,Vegetables ,1,Red Chili Pepper,Spicy pepper used to add heat and flavor to a wide range of dishes.,100000000342
+10000342,0,Produce,Vegetables ,1,Red Leaf Lettuce,"Leafy green with red-tinted leaves, commonly used in salads.",100000000343
+10000343,0,Produce,Vegetables ,1,Red Onion,"Mild-flavored onion with a red or purple skin, commonly used in various dishes.",100000000344
+10000344,0,Produce,Vegetables ,1,Red Pepper,"Sweet or spicy pepper with a red color, commonly used in cooking.",100000000345
+10000345,0,Produce,Vegetables ,1,Rhubarb,"Tart and tangy vegetable with red or green stalks, often used in desserts.",100000000346
+10000346,0,Produce,Vegetables ,1,Romaine Lettuce,"Long, crisp lettuce variety with dark green leaves, commonly used in salads.",100000000347
+10000347,0,Produce,Vegetables ,1,Romanesco Broccoli,"Chartreuse green vegetable with a fractal-like pattern, often used in cooking.",100000000348
+10000348,0,Produce,Vegetables ,1,Roselle,"Edible hibiscus plant with tart-flavored calyces, often used in jams and teas.",100000000349
+10000349,0,Produce,Vegetables ,1,Rutabaga,"Root vegetable with a sweet and peppery flavor, often used in cooking.",100000000350
+10000350,0,Produce,Vegetables ,1,Salsify,"Edible root vegetable with a mild flavor, often used in soups and stews.",100000000351
+10000351,0,Produce,Vegetables ,1,Samphire,Edible coastal plant with a crisp texture and a salty flavor.,100000000352
+10000352,0,Produce,Vegetables ,1,Savory,"Aromatic herb with a peppery flavor, often used in culinary dishes.",100000000353
+10000353,0,Produce,Vegetables ,1,Seaweed,"Edible marine algae with diverse varieties, rich in nutrients; commonly used in Asian cuisines for its unique flavors and textures.",100000000354
+10000354,0,Produce,Vegetables ,1,Shallot,"Mild-flavored bulb vegetable, often used as a substitute for onions or garlic.",100000000355
+10000355,0,Produce,Vegetables ,1,Shiitake Mushroom,"Earthy and savory, shiitakes offer a meaty texture and are prized in Asian cuisine for their rich umami flavor.",100000000356
+10000356,0,Produce,Vegetables ,1,Shiso,"Aromatic herb with a distinct flavor, often used in Japanese and Korean cuisines.",100000000357
+10000357,0,Produce,Vegetables ,1,Snap Pea,"Crisp and sweet pea with edible pods, commonly used in salads and stir-fries.",100000000358
+10000358,0,Produce,Vegetables ,1,Snow Pea,"Crisp and sweet pea with flat, edible pods, commonly used in salads and stir-fries.",100000000359
+10000359,0,Produce,Vegetables ,1,Sorrel,"Tangy and lemon-flavored leafy green, often used in salads and sauces.",100000000360
+10000360,0,Produce,Vegetables ,1,Soybean,"Legume with a high protein content, commonly used to produce soy products.",100000000361
+10000361,0,Produce,Vegetables ,1,Spaghetti Squash,"Winter squash with stringy flesh, often used as a low-carb pasta alternative.",100000000362
+10000362,0,Produce,Vegetables ,1,Spinach,"Nutrient-dense leafy green vegetable with a mild flavor, commonly used in salads.",100000000363
+10000363,0,Produce,Vegetables ,1,Spring Onion,"Young onion with a mild flavor, commonly used as a garnish.",100000000364
+10000364,0,Produce,Vegetables ,1,Sprouts,"Tender young shoots of germinated seeds, often used in salads and sandwiches.",100000000365
+10000365,0,Produce,Vegetables ,1,Squash,"Various types of summer and winter squash, often used in cooking.",100000000366
+10000366,0,Produce,Vegetables ,1,Straw Mushroom,"Edible mushroom with a small cap and long stem, commonly used in Asian cuisine.",100000000367
+10000367,0,Produce,Vegetables ,1,Sugar Beet,"Sweet variety of beet, often processed to extract sugar.",100000000368
+10000368,0,Produce,Vegetables ,1,Sunchoke,"Tuberous root vegetable with a nutty flavor, also known as Jerusalem artichoke.",100000000369
+10000369,0,Produce,Vegetables ,1,Sweet Potato,"Sweet and starchy tuber with orange flesh, often baked or mashed.",100000000370
+10000370,0,Produce,Vegetables ,1,Swiss Chard,"Leafy green vegetable with colorful stems, often used in salads or sautéed.",100000000371
+10000371,0,Produce,Vegetables ,1,Tatsoi,"Asian leafy green vegetable with a mild flavor, commonly used in salads and stir-fries.",100000000372
+10000372,0,Produce,Vegetables ,1,Thyme,"Aromatic herb with small leaves, often used to flavor a variety of dishes.",100000000373
+10000373,0,Produce,Vegetables ,1,Tubers,"Underground storage organs of certain plants, such as potatoes and yams.",100000000374
+10000374,0,Produce,Vegetables ,1,Turmeric,"Golden-yellow spice with a warm and slightly bitter taste, often used in cooking.",100000000375
+10000375,0,Produce,Vegetables ,1,Turnip,"Root vegetable with a peppery flavor, often used in soups and stews.",100000000376
+10000376,0,Produce,Vegetables ,1,Ulluco,"Andean tuber with a variety of colorful varieties, often used in South American cuisine.",100000000377
+10000377,0,Produce,Vegetables ,1,Upland Cress,"Leafy green with a peppery taste, often used in salads and sandwiches.",100000000378
+10000378,0,Produce,Vegetables ,1,Vidalia Onion,"Sweet onion variety with a mild flavor, often used in cooking and salads.",100000000379
+10000379,0,Produce,Vegetables ,1,Wasabi,"Spicy condiment derived from the Japanese horseradish plant, often served with sushi.",100000000380
+10000380,0,Produce,Vegetables ,1,Water Chestnut,Crisp and water-filled tuber often used in Asian cuisine.,100000000381
+10000381,0,Produce,Vegetables ,1,Water Spinach,Leafy green vegetable commonly used in Southeast Asian cuisine.,100000000382
+10000382,0,Produce,Vegetables ,1,Watercress,"Peppery-flavored aquatic plant, often used in salads and sandwiches.",100000000383
+10000383,0,Produce,Vegetables ,1,Watermelon Radish,"Vibrant radish variety with a mild flavor, often used in salads.",100000000384
+10000384,0,Produce,Vegetables ,1,White Asparagus,Asparagus variety that is grown underground to prevent exposure to sunlight.,100000000385
+10000385,0,Produce,Vegetables ,1,White Mushroom,"Mild-flavored mushroom with a white cap and stem, commonly used in cooking.",100000000386
+10000386,0,Produce,Vegetables ,1,White Onion,"Mild-flavored onion with a white or yellow skin, commonly used in various dishes.",100000000387
+10000387,0,Produce,Vegetables ,1,White Radish,"Mild-flavored radish with a white skin, commonly used in Asian cuisine.",100000000388
+10000388,0,Produce,Vegetables ,1,Wild Leek,"Wild onion with a pungent flavor, often used in culinary dishes.",100000000389
+10000389,0,Produce,Vegetables ,1,Winter Melon,"Large, mild-flavored melon often used in soups and stews.",100000000390
+10000390,0,Produce,Vegetables ,1,Winter Purslane,"Edible succulent with a lemony flavor, often used in salads or cooked dishes.",100000000391
+10000391,0,Produce,Vegetables ,1,Winter Squash,Variety of squash that is harvested in the fall and winter months.,100000000392
+10000392,0,Produce,Vegetables ,1,Yacon,"Tuberous root vegetable with a sweet taste, often used as a natural sweetener.",100000000393
+10000393,0,Produce,Vegetables ,1,Yam,"Sweet and starchy tuber with orange or purple flesh, often baked or mashed.",100000000394
+10000394,0,Produce,Vegetables ,1,Yellow Pepper,"Sweet or spicy pepper with a yellow color, commonly used in cooking.",100000000395
+10000395,0,Produce,Vegetables ,1,Yellow Squash,"Summer squash with a yellow color and mild flavor, often used in cooking.",100000000396
+10000396,0,Produce,Vegetables ,1,Yellow Tomato,"Tomato variety with a yellow hue and a mild, sweet flavor.",100000000397
+10000397,0,Produce,Vegetables ,1,Yuca,"Starchy root vegetable, also known as cassava, often used in various dishes.",100000000398
+10000398,0,Produce,Vegetables ,1,Zucchini,"Mild-flavored summer squash with a tender texture, often used in cooking.",100000000399
+10000399,0,Produce,Vegetables ,1,Zucchini Blossoms,"Edible flowers of the zucchini plant, often used in culinary dishes.",100000000400
