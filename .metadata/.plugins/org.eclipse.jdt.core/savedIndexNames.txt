@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+/Users/snigdhapalamari/Documents/Junior_Year/Spring_2024/ITDE402/polaris2/.metadata/.plugins/org.eclipse.jdt.core
+3518696288.index
+3240449619.index
