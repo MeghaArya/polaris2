@@ -16,6 +16,7 @@
     <description>Inventory project for extracting and modifying inventory data.</description>
     <properties>
         <java.version>21</java.version>
+           <maven.compiler.source>21</maven.compiler.source>
     </properties>
     <dependencies>
         <!-- Spring Boot Dependencies -->
@@ -91,7 +92,11 @@
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-resources-plugin</artifactId>
+                 <artifactId>maven-compiler-plugin</artifactId>
+          <configuration>
+            <source>21</source>
+            <target>21</target>
+          </configuration>
                 </plugin>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
