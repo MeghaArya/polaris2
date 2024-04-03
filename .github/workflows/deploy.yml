@@ -45,5 +45,5 @@ jobs:
           application_name: 'backend_polaris_store'
           environment_name: 'Backendpolarisstore-env'
           version_label: ${{ github.SHA }}
-          region: us-east-2
+          region: us-east-1
           deployment_package: inventory-services-0.0.1.jar
