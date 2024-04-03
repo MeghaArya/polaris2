@@ -9,22 +9,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-- name: Set up JDK
-  uses: actions/setup-java@v2
-  with:
-    distribution: 'temurin' # This is the Eclipse Temurin distribution, widely used
-    java-version: '21' # Update this to the Java version your project uses
+      - name: Set up JDK
+        uses: actions/setup-java@v2
+        with:
+          distribution: 'temurin'
+          java-version: '21' 
 
       - name: Build with Maven
         run: mvn -B package -DskipTests --file pom.xml
+
       - name: Upload JAR
         uses: actions/upload-artifact@v2
         with:
           name: artifact
           path: target/vibrations-api-0.0.1-SNAPSHOT.jar
-- name: List output files
-  run: ls -l target/
-  
+
+      - name: List output files
+        run: ls -l target/
+
   deploy:
     needs: build
     name: Deploy
@@ -34,12 +36,12 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: artifact
+
       - name: Deploy to EB
         uses: einaregilsson/beanstalk-deploy@v13
         with:
           aws_access_key: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          use_existing_version_if_available: true
           application_name: ${{ secrets.APPLICATION_NAME }}
           environment_name: ${{ secrets.ENVIRONMENT_NAME }}
           version_label: ${{ github.SHA }}
