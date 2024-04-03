@@ -15,7 +15,7 @@
     <name>Inventory API Services</name>
     <description>Inventory project for extracting and modifying inventory data.</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>21</java.version>
     </properties>
     <dependencies>
         <!-- Spring Boot Dependencies -->
