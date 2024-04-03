@@ -105,4 +105,26 @@ public class ActivityDefintionControllerV1 {
             return new ResponseEntity<>("Failed to delete Activity Definition with ID " + id, HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
+    
+    //search for activity and return ID
+    @GetMapping("/api/activity_def/search")
+    public ResponseEntity<Long> getActivityDefinitionIdByName(@RequestParam("activity") String activity) {
+        try {
+            Optional<ActivityDefinition> activityDefinitionOptional = activityDefinitionRepository.findByActivity(activity);
+            if (activityDefinitionOptional.isPresent()) {
+                // Return the found ActivityDefinition's ID
+                return new ResponseEntity<>(activityDefinitionOptional.get().getId(), HttpStatus.OK);
+            } else {
+                // Return 0 if the ActivityDefinition is not found
+                return new ResponseEntity<>(0L, HttpStatus.OK);
+            }
+        } catch (Exception e) {
+            System.out.println(e.toString());
+            // Handle any exceptions
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+    
+    
+  
 }

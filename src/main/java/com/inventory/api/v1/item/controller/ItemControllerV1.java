@@ -102,4 +102,21 @@ public class ItemControllerV1 {
             return new ResponseEntity<>("Failed to delete Item with ID " + id, HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
+    
+    //attempt on search when given the SKU
+    @GetMapping("/api/item/search")
+    public ResponseEntity<Integer> getItemIdBySkuName(@RequestParam("sku_name") String skuName) {
+        try {
+            Optional<Item> itemOptional = itemRepository.findBySkuName(skuName);
+            if (itemOptional.isPresent()) {
+                return new ResponseEntity<>(itemOptional.get().getId(), HttpStatus.OK);
+            } else {
+            	//return a 0 value for ID so that the step functions can do error handling
+            	return new ResponseEntity<>(0, HttpStatus.OK);
+            }
+        } catch (Exception e) {
+            System.out.println(e.toString());
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
 }
