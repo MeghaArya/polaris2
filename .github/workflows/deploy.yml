@@ -8,11 +8,13 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - name: Set up JDK
-        uses: actions/setup-java@v1
-        with:
-          java-version: '21'
+      - uses: actions/checkout@v2
+- name: Set up JDK
+  uses: actions/setup-java@v2
+  with:
+    distribution: 'temurin' # This is the Eclipse Temurin distribution, widely used
+    java-version: '21' # Update this to the Java version your project uses
+
       - name: Build with Maven
         run: mvn -B package -DskipTests --file pom.xml
       - name: Upload JAR
